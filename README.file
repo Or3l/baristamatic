@@ -1,0 +1,3 @@
+To package and run the application:
+1. Navigate to the pom.xml folder, then run : mvn package
+2. Navigate to the target folder, and run: java -jar baristamatic-1.0-SNAPSHOT.jar
